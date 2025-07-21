@@ -10,3 +10,5 @@ Types_of_sales=input("Enter types sales:")
 location_of_shop=input("Enter shop location:")
 mens_clothes_price_begins=int(input("Enter mens clothes prices begins form:"))
 womens_clothes_price_begins=int(input("Enter womens clothes prices begins form:"))
+
+
