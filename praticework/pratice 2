@@ -1,0 +1,18 @@
+class NormalUser:
+def __init__(self,username):
+    self.username = username
+    print(f'\user
+
+
+
+
+  class premiumuser(NormalUser):
+    def __init__(self,username):
+        super().__init__(username)
+
+    def playvideo(self):
+        print("ADS Free")
+        print("YT MUSI
+
+
+    -
