@@ -3,7 +3,7 @@ data={
     2:{'name':'Harika','attempt_status':True,'python':100,'sql':90,'powerbi':80},#90
     3:{'name':'Bhavana','attempt_status':True,'python':80,'sql':90,'powerbi':20}, #70.0
     4:{'name':'Srija','attempt_status':True,'python':30,'sql':100,'powerbi':25}, # 52.0
-    5:{'name':'mounika+','attempt_status':True,'python':60,'sql':40,'powerbi':35}, #45
+    5:{'name':'mounika+2','attempt_status':True,'python':60,'sql':40,'powerbi':35}, #45
 }
 
 stuid=int(input("Enter the student id: ")) #1,2,3 like that..
