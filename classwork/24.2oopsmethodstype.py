@@ -18,9 +18,9 @@ class Shopping:
             print(f"{discount}%discount is availble.shop now!!!")
             
         
-mounika=Shopping()
+kowshik=Shopping()
 
-mounika.placeorder("phone")
+kowshik.placeorder("phone")
 
 
-mounika.updatediscount(15)
+kowshik.updatediscount(15)
